@@ -1,16 +1,19 @@
 # Bulk File Renamer
 
-Simple tool to quickly rename and organize large groups of files.
+A simple Python tool to quickly rename and organize large groups of files.
 
-## What it does
-- bulk-renames files in a folder
-- removes extra spaces and messy characters
-- adds numbers or dates to filenames
+---
 
-## Why
-Makes it easier to clean folders, photos, downloads, and exports.
+## Features
+- Bulk rename all files in a folder
+- Add a prefix and sequential numbers
+- Keeps original file extensions intact
+- Minimal setup, easy to use
 
-## Future improvements
-- GUI version
-- preview before renaming
-- custom rename patterns
+---
+
+## Installation
+1. Make sure you have **Python 3** installed.
+2. Clone this repository:
+```bash
+git clone https://github.com/JustinHolko/bulk-file-renamer.git
